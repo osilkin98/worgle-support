@@ -8,7 +8,7 @@
 
 <Router {url}>
   <div>
-    <Route path="/" component={Home} />
+    <Route path="/" component={Home}  />
     <Route path="/privacy" component={Privacy} />
   </div>
 </Router>
